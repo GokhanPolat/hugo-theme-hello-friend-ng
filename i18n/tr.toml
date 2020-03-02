@@ -1,4 +1,4 @@
-# Translations for English
+# Translations for Turkish
 # https://gohugo.io/content-management/multilingual/#translation-of-strings
 
 # Generic
@@ -32,5 +32,5 @@ other = "{{ .Count }} dakika"
 other = "İçindekiler"
 
 [wordCount]
-one   = "One Kelime"
+one   = "Bir Kelime"
 other = "{{ .Count }} Kelime"
